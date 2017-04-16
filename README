@@ -2,6 +2,7 @@ Cauchy-Schwarz Inequality.
 
 Actually corollary of Lagrange Identity.
 Which is itself a corollary of Binet-Cauchy Identity.
+All included.
 
 Works on vectors any dimension represented as lists.
 
