@@ -1,0 +1,4 @@
+Cauchy_Schwarz.vio: Cauchy_Schwarz.v SummationR.vio
+Cauchy_Schwarz.vo Cauchy_Schwarz.glob Cauchy_Schwarz.v.beautified: Cauchy_Schwarz.v SummationR.vo
+SummationR.vio: SummationR.v
+SummationR.vo SummationR.glob SummationR.v.beautified: SummationR.v
