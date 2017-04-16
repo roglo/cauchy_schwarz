@@ -1,0 +1,9 @@
+Cauchy-Schwarz Inequality.
+
+Actually corollary of Lagrange Identity.
+Which is itself a corollary of Binet-Cauchy Identity.
+
+Works on vectors any dimension represented as lists.
+
+Compiled with Coq v8.6.
+Author: Daniel de Rauglaudre
